@@ -95,4 +95,5 @@ const images = [
     captionSelector: "img",
     captionDelay: 250,
   });
-  lightbox.on('show.simplelightbox');
+
+   lightbox.on('show.simplelightbox');
